@@ -4,7 +4,8 @@ MicroGuard is a real-time anomaly detection system for industrial IoT sensor dat
 
 Dataset: [IoT T-Sensor Dataset for Anomaly Detection](https://www.kaggle.com/datasets/diaealaouisoulimani/iot-t-sensor-dataset-for-anomaly-detection)(Kaggle)
 
-Live App Demo : [https://micro-guard-kkylww2l2wbxsm6eajy85c.streamlit.app/]Click Here
+Live App Demo : Click Here [https://micro-guard-kkylww2l2wbxsm6eajy85c.streamlit.app/] 
+![alt text](<web_app.png>)
 -------------
 
 ## 1. Problem
